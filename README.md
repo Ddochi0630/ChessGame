@@ -1,1 +1,1 @@
-# cs246FinalProject
+#Yeeun's chess game project
